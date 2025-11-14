@@ -3648,7 +3648,7 @@
             <zone h='93638' id='1' param='vert' removable='false' type-v2='layout-flow' w='99064' x='468' y='5469'>
               <zone fixed-size='100' h='11161' id='4' is-fixed='true' paired-zone-id='5' removable='false' type-v2='flipboard-nav' w='99064' x='468' y='5469' />
               <zone h='82477' id='5' paired-zone-id='4' removable='false' type-v2='flipboard' w='99064' x='468' y='16630'>
-                <flipboard active-id='1' nav-type='caption' show-nav-arrows='true'>
+                <flipboard active-id='14' nav-type='caption' show-nav-arrows='true'>
                   <story-points>
                     <story-point caption='Main Question' captured-sheet='Question' id='14' />
                     <story-point caption='Worldwide emissions' captured-sheet='Total Emissions' id='1'>
